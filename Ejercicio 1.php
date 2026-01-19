@@ -1,0 +1,1 @@
+#Ejercicio 1 : crear un programa en PHP que calcule el aréa de de un rectangulo 
