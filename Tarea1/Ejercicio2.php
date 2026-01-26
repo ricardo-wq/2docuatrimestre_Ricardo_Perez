@@ -37,4 +37,3 @@ echo "Promedio semanal: <strong>$" . round($promedio_semanal, 2) . "</strong>";
 
 
 
-?>
